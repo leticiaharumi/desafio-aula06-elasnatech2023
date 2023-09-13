@@ -1,0 +1,55 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    background-clor: #F6D5E5;
+    width: auto;
+    height: auto;  
+    margin: 0;
+    padding: 0;
+    color: #75666D;
+}
+
+header{
+    color: #75435B;
+    text-align: center;
+    background-color: #C2A9B5;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.titulos{
+    text-align: center;
+}
+
+.paragrafos{
+    margin: 80px;
+    padding: 80px;
+    border-width: 20px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: #75435B;
+    text-align: justify;
+}
+
+hr{
+    border-color: #d3b5c4;
+}
+
+.link{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+a{
+    color: #F78DC0;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+a:hover{
+    color: #75435B;
+    font-style: italic;
+}
+
+.lista{
+    margin-left: 80px;
+}
